@@ -6,21 +6,21 @@
 
 -module(b_gift_effects).
 -export([get/1]).
-get(1)->
+get(10)->
     1;
-get(2) ->
+get(100) ->
     1;
-get(3) ->
+get(-10) ->
     1;
-get(4) ->
+get(-100) ->
     1;
-get(5) ->
+get(100) ->
     1;
-get(6) ->
+get(-1000) ->
     1;
-get(7) ->
+get(-100) ->
     1;
-get(8) ->
+get(-1000) ->
     1;
 get(_) ->
     1.
