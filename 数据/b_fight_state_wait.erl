@@ -1,0 +1,50 @@
+-module(b_fight_state_wait).
+-export([get/1
+        ]).
+get(start)->
+	6000;
+get(state_daozei)->
+	2000;
+get(state_qiubite)->
+	2000;
+get(state_hunxueer)->
+	2000;
+get(state_shouwei)->
+	2000;
+get(state_langren)->
+	2000;
+get(state_nvwu)->
+	2000;
+get(state_yuyanjia)->
+	2000;
+get(state_day)->
+	1500;
+get(state_part_jingzhang)->
+	2000;
+get(state_part_fayan)->
+	2000;
+get(state_xuanju_jingzhang)->
+	2000;
+get(state_night_result)->
+	6000;
+get(state_night_death_fayan)->
+	2000;
+get(state_jingzhang)->
+	2000;
+get(state_fayan)->
+	2000;
+get(state_guipiao)->
+	2000;
+get(state_toupiao)->
+	2000;
+get(state_toupiao_death_fayan)->
+	2000;
+get(state_night)->
+	2000;
+get(state_someone_die)->
+	2000;
+get(state_someone_die_d_delay)->
+	6000;
+get(_) ->
+    1000.
+
