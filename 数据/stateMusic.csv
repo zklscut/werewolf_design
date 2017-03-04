@@ -45,3 +45,9 @@ int,string,string
 43,werewolf_step,狼人请执行操作
 44,wolf_win,游戏结束，狼人胜利
 45,human_win,游戏结束，好人胜利
+46,third_camp,第三方获胜
+47,peace_day,今天是平安日
+48,peace_night,昨晚是平安夜
+49,mvp_step,现在进入mvp竞选环节
+50,mvp_vote,mvp投票环节开始
+51,carry_vote,carry投票环节开始
