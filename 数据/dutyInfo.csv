@@ -1,0 +1,15 @@
+id,name,cardName,cardAsset,selectComsume,skill,target
+int,string,string,string,int,string,string
+1,盗贼,robbers,card,10,晚上杀人,杀死所有好人
+2,丘比特,cupid,card,10,晚上杀人,杀死所有好人
+3,混血儿,hunxueer,card,10,晚上杀人,杀死所有好人
+4,守卫,guard,card,10,晚上杀人,杀死所有好人
+5,狼人,wolf,card,10,晚上杀人,杀死所有好人
+6,女巫,witch,card,10,晚上杀人,杀死所有好人
+7,预言家,Prophet,card,10,晚上杀人,杀死所有好人
+8,猎人,hunter,card,10,晚上杀人,杀死所有好人
+9,村长,wolf,card,10,晚上杀人,杀死所有好人
+10,白痴,idiocy,card,10,晚上杀人,杀死所有好人
+11,平民,people,card,10,晚上杀人,杀死所有好人
+12,第三方,wolf,card,10,晚上杀人,杀死所有好人
+13,白狼,bailang,card,10,晚上杀人,杀死所有好人
