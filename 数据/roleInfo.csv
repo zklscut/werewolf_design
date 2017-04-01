@@ -1,0 +1,13 @@
+id,desc,day,name,nameImg
+int,string,bool,string,string
+6,每天晚上可以查证1个人的身份。,FALSE,预言家,main_yuyanjia
+8,拥有2瓶药，一瓶救药，一瓶毒药。,FALSE,女巫,main_nvwu
+3,被公投或狼刀，可翻牌带走1个人。,FALSE,猎人,main_lieren
+4,白天被公投，翻牌不出局。,TRUE,白痴,main_baichi
+2,每天晚上可守护一个人。,FALSE,守卫,main_shouwei
+5,无特殊技能，白天可以投票。,TRUE,平民,main_pingmin
+9,每天晚上可以杀死一位玩家，拥有投票的权利。,FALSE,狼,main_langren
+10,白天发言阶段，可以自爆带走一个玩家。,FALSE,白狼,main_bailang
+1,指定2人成为情侣。,TRUE,丘比特,main_qiubite
+7,晚上可看到2张牌，可以二选一,FALSE,盗贼,main_daozei
+11,第一晚选择崇拜的人，若崇拜的是好人，\n则帮好人获胜。若崇拜的是狼人，则帮狼人获胜。,FALSE,混血儿,main_hunxueer
